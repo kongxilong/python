@@ -1,0 +1,5 @@
+这是第一个测试
+hello,this is the first test to write the file in python
+and this a interest experenice.
+well done .
+let's begin our show.

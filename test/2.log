@@ -1,0 +1,69 @@
+[2018-01-12 19:03:41:328] file:msglog_service.cpp line: 164)<<<< MsgLogService::OnLoad()
+[2018-01-12 19:03:42:285] file:msglog_service.cpp line: 126)<<<<ExecuteSQLQuery is OK
+[2018-01-12 19:03:42:289] file:sticker_list_db_service.cpp line: 115)<<<<the stickerlist db file is E:\kxl\工程\winpopo3_debug\client\bin\users\hzkongxilong@corp.netease.com\stickerlist_6.db[2018-01-12 19:03:42:290] file:msglog_service.cpp line: 178)<<<< MsgLogService::OnLoad()  time = 4
+[2018-01-12 19:03:48:497] file:msglog_service.cpp line: 427)<<<<WriteLogs  time_acquire_lock = 0, total time is 270, size = 3
+[2018-01-12 19:03:49:000] file:msglog_service.cpp line: 427)<<<<WriteLogs  time_acquire_lock = 0, total time is 333, size = 9
+[2018-01-12 19:03:49:094] file:msglog_service.cpp line: 427)<<<<WriteLogs  time_acquire_lock = 0, total time is 88, size = 0
+[2018-01-12 19:03:49:430] file:msglog_service.cpp line: 427)<<<<WriteLogs  time_acquire_lock = 0, total time is 334, size = 3
+[2018-01-12 19:03:49:433] file:msglog_service.cpp line: 427)<<<<WriteLogs  time_acquire_lock = 0, total time is 0, size = 0
+[2018-01-12 19:03:49:830] file:msglog_service.cpp line: 427)<<<<WriteLogs  time_acquire_lock = 0, total time is 394, size = 2
+[2018-01-12 19:23:54:763] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 124 ms  time2=124 ms.
+[2018-01-12 19:23:55:154] file:msglog_service.cpp line: 999)<<<<ReadMessageWithUUID time_acquire_lock =0 ms; end time=158 ms.
+[2018-01-12 19:23:55:156] file:msglog_service.cpp line: 2068)<<<<QueryLogsSmallThanWithoutMulti time_acquire_lock =117 ms; end time=117 ms.
+[2018-01-12 19:23:55:408] file:msglog_service.cpp line: 360)<<<<TranscationWriteLogs logs size=8 个。time_acquire_lock =1 ms; time= 253 ms.
+[2018-01-12 19:23:55:410] file:msglog_service.cpp line: 2068)<<<<QueryLogsSmallThanWithoutMulti time_acquire_lock =253 ms; end time=254 ms.
+[2018-01-12 19:26:38:155] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 225 ms  time2=225 ms.
+[2018-01-12 19:48:09:761] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 131 ms  time2=131 ms.
+[2018-01-12 19:48:10:269] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 181 ms  time2=182 ms.
+[2018-01-12 19:48:22:066] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 122 ms  time2=122 ms.
+[2018-01-12 19:48:22:357] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 113 ms  time2=114 ms.
+[2018-01-12 19:48:24:767] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 150 ms  time2=151 ms.
+[2018-01-12 19:53:59:462] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 257 ms  time2=258 ms.
+[2018-01-12 20:04:57:791] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 148 ms  time2=149 ms.
+[2018-01-12 20:05:38:964] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 140 ms  time2=140 ms.
+[2018-01-12 20:05:54:895] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 133 ms  time2=134 ms.
+[2018-01-12 20:06:11:192] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 108 ms  time2=109 ms.
+[2018-01-12 20:06:11:467] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 183 ms  time2=183 ms.
+[2018-01-12 20:06:11:709] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 225 ms  time2=225 ms.
+[2018-01-12 20:07:28:762] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 152 ms  time2=152 ms.
+[2018-01-12 20:07:29:061] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 254 ms  time2=254 ms.
+[2018-01-12 20:08:29:975] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 209 ms  time2=209 ms.
+[2018-01-12 20:10:15:288] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 138 ms  time2=138 ms.
+[2018-01-12 20:10:15:597] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 152 ms  time2=152 ms.
+[2018-01-12 20:10:17:472] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 123 ms  time2=123 ms.
+[2018-01-12 20:10:31:186] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 153 ms  time2=153 ms.
+[2018-01-12 20:13:04:099] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 121 ms  time2=122 ms.
+[2018-01-12 20:13:11:450] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 136 ms  time2=137 ms.
+[2018-01-12 20:13:13:286] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 118 ms  time2=119 ms.
+[2018-01-12 20:22:12:120] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 232 ms  time2=233 ms.
+[2018-01-12 20:22:12:573] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 429 ms  time2=429 ms.
+[2018-01-12 20:22:13:054] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 477 ms  time2=478 ms.
+[2018-01-12 20:23:31:448] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 121 ms  time2=122 ms.
+[2018-01-12 20:23:31:740] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 210 ms  time2=210 ms.
+[2018-01-12 20:24:30:569] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 121 ms  time2=121 ms.
+[2018-01-12 20:26:28:312] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 110 ms  time2=111 ms.
+[2018-01-12 20:26:28:613] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 212 ms  time2=213 ms.
+[2018-01-12 20:31:41:926] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 129 ms  time2=130 ms.
+[2018-01-12 20:31:46:311] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 143 ms  time2=143 ms.
+[2018-01-12 20:32:10:043] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 126 ms  time2=127 ms.
+[2018-01-12 20:35:33:975] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 104 ms  time2=105 ms.
+[2018-01-12 20:36:55:448] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 131 ms  time2=131 ms.
+[2018-01-12 20:54:22:089] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 132 ms  time2=132 ms.
+[2018-01-12 20:54:22:340] file:msglog_service.cpp line: 427)<<<<WriteLogs  time_acquire_lock = 0, total time is 247, size = 13
+[2018-01-12 21:01:05:918] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 125 ms  time2=125 ms.
+[2018-01-12 21:01:08:287] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 146 ms  time2=147 ms.
+[2018-01-12 21:02:43:786] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 140 ms  time2=140 ms.
+[2018-01-12 21:02:44:790] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 160 ms  time2=161 ms.
+[2018-01-12 21:02:55:125] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 142 ms  time2=143 ms.
+[2018-01-12 21:02:56:825] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 138 ms  time2=139 ms.
+[2018-01-12 21:06:01:809] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 164 ms  time2=164 ms.
+[2018-01-12 21:06:04:619] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 148 ms  time2=149 ms.
+[2018-01-12 21:06:04:935] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 198 ms  time2=198 ms.
+[2018-01-12 21:06:06:484] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 168 ms  time2=168 ms.
+[2018-01-12 21:06:27:501] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 136 ms  time2=136 ms.
+[2018-01-12 21:06:29:184] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 131 ms  time2=131 ms.
+[2018-01-12 21:06:38:022] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 127 ms  time2=127 ms.
+[2018-01-12 21:06:39:306] file:msglog_service.cpp line: 290)<<<<WriteLog time_acquire_lock =0 ms; time1= 150 ms  time2=151 ms.
+[2018-01-12 21:09:16:020] file:msglog_service.cpp line: 999)<<<<ReadMessageWithUUID time_acquire_lock =0 ms; end time=225 ms.
+[2018-01-12 21:09:16:237] file:msglog_service.cpp line: 360)<<<<TranscationWriteLogs logs size=112 个。time_acquire_lock =1 ms; time= 215 ms.
+[2018-01-12 21:09:16:412] file:msglog_service.cpp line: 360)<<<<TranscationWriteLogs logs size=8 个。time_acquire_lock =0 ms; time= 173 ms.
